@@ -1,7 +1,7 @@
 {
  "name": "TeleBot - UserBot",
  "description": "An advanced Telethon Userbot, from @TeleBotSupport",
- "logo": "https://telegra.ph/file/0b1d5cb8deeec7a506154.jpg",
+ "logo": "https://telegra.ph/file/51f6431dd1530bd7e90c0.jpg",
  "keywords": [
   "telegram",
   "userbot",
@@ -9,9 +9,9 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/xditya/TeleBot/",
+ "repository": "https://github.com/Deepak15011/mytelebot/",
  "website": "https://xditya.gitbook.io/telebot/",
- "success_url": "https://t.me/TeleBotHelp/13",
+ "success_url": "",
  "stack": "container",
  "env": {
   "ENV": {
@@ -55,7 +55,7 @@
    "required": false
   },  
   "GIT_REPO_NAME": {
-   "description": "Your repo name Example: xditya/TeleBot, but GITHUB_ACCESS_TOKEN must be setup first.",
+   "description": "Your repo name Example:deepak/mytelebot, but GITHUB_ACCESS_TOKEN must be setup first.",
    "value": "",
    "required": false
   },
